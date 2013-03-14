@@ -1,6 +1,6 @@
 G Boilerplate
 =============
-A minimal structure for starting HTML5 projects
+A minimal HTML5 structure with SASS/Compass, jQuery and Bower support
 
 ### Usage: 
 `git clone git@github.com:Granze/G-boilerplate.git`
